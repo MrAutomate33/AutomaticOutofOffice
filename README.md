@@ -20,7 +20,7 @@ _Out of office message supports HTML_
 * Office 365 Outlook
 
 ## Setup
-1. Please download the [AutomaticOutofOffice.zip]().
+1. Please download the [AutomaticOutofOffice.zip](https://github.com/MrAutomate33/AutomaticOutofOffice/raw/main/AutomaticOutofOffice.zip).
 2. Go to https://emea.flow.microsoft.com/manage/flows/import.
 3. Upload and import the AutomaticOutofOffice.zip file.
 4. Open the Power Automate flow and change the calendar id to the desired calendar (needs to be done in 1 locations).
@@ -28,3 +28,4 @@ _Out of office message supports HTML_
 6. Save.
 7. Don't forget to turn the solution on.
 8. Create the category 'Out of Office' in your Outlook.
+9. Label your events with the category 'Out of Office'.
