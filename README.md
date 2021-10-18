@@ -13,7 +13,7 @@ The out of office will always turn itself off at the end of the event, despite i
   
 The flow will notify you if it has activated your out of office. You will receive the notification through the [Power Automate app](https://emea.flow.microsoft.com/en-us/mobile/download/?src=banner).
   
-_Out of office message supports HTML_
+_Out of office message supports HTML._
 
 ## Connections in use
 * Notifications
