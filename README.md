@@ -23,7 +23,7 @@ _Out of office message supports HTML._
 1. Please download the [AutomaticOutofOffice.zip](https://github.com/MrAutomate33/AutomaticOutofOffice/raw/main/AutomaticOutofOffice.zip).
 2. Go to https://emea.flow.microsoft.com/manage/flows/import.
 3. Upload and import the AutomaticOutofOffice.zip file.
-4. Open the Power Automate flow and change the calendar id to the desired calendar (needs to be done in 1 locations).
+4. Open the Power Automate flow and change the calendar id to the desired calendar (needs to be done in 1 location).
 5. Set your internal and external out of office messages in the action 'Set up automatic replies (V2)'.
 6. Save.
 7. Don't forget to turn the solution on.
