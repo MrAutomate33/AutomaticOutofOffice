@@ -26,6 +26,6 @@ _Out of office message supports HTML._
 4. Open the Power Automate flow and change the calendar id to the desired calendar (needs to be done in 1 location).
 5. Set your internal and external out of office messages in the action 'Set up automatic replies (V2)'.
 6. Save.
-7. Don't forget to turn the solution on.
+7. Don't forget to turn the flow on.
 8. Create the category 'Out of Office' in your Outlook.
 9. Label your events with the category 'Out of Office'.
