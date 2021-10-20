@@ -1,4 +1,4 @@
-# Automatic Out of Office
+# Microsoft Outlook - Automatic Out of Office
 Turns your out of office on and off at the right time.
 
 ## General
