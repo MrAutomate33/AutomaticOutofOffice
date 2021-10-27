@@ -18,11 +18,11 @@ _Out of Office message supports HTML._
 ### Out of Office by Category
 The flow checks your agenda by default 6 hours ahead if there is an Outlook event with the category 'Out of Office'.
 You will have to create this category by yourself in Outlook.
-<br/>Download: [AutomaticOutofOffice - Category.zip](https://github.com/MrAutomate33/AutomaticOutofOffice/raw/main/AutomaticOutofOffice.zip)
+<br/>Download: [AutomaticOutofOffice-Category.zip](/../../raw/main/AutomaticOutofOffice-Category.zip)
 
 ### Out of Office by Show As
 The flow checks your agenda by default 5 min ahead if there is an Outlook event with the Show As status 'Out of Office'.
-<br/>Download: [AutomaticOutofOffice - ShowAs.zip](https://github.com/MrAutomate33/AutomaticOutofOffice/raw/main/AutomaticOutofOffice.zip)
+<br/>Download: [AutomaticOutofOffice-ShowAs.zip](/../../raw/main/AutomaticOutofOffice-ShowAs.zip)
 
 ## Connections in use
 * Notifications
