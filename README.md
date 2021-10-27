@@ -6,7 +6,7 @@ This Power Automate flow will activate your out of office automatically.
 The flow checks your agenda 6 hours ahead if there is an Outlook event with the category 'Out of Office'.
 If so, the flow will set your out of office for the duration of that Outlook event.
 
-The out of office message contains by default the message that you are currently not available but will be again at <end of Outlook event>.
+The out of office message contains by default the message that you are currently not available but will be again at \<end of Outlook event\>.
 If the event duration of the out of office is 5 days or longer, the message will add 2 days in the message.
 This way you can prevent a busy start of your day after a long week off.
 The out of office will always turn itself off at the end of the event, despite it may add 2 days in the message.
