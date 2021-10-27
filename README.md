@@ -29,7 +29,7 @@ The flow checks your agenda by default 5 min ahead if there is an Outlook event 
 * Office 365 Outlook
 
 ## Setup
-1. Please download the desired flow. [Out of Office by Category](https://github.com/MrAutomate33/AutomaticOutofOffice/raw/main/AutomaticOutofOffice.zip) or [Out of Office by Show As](https://github.com/MrAutomate33/AutomaticOutofOffice/raw/main/AutomaticOutofOffice.zip).
+1. Please download the desired flow. [Out of Office by Category](/../../#out-of-office-by-category) or [Out of Office by Show As](/../../#out-of-office-by-show-as).
 2. Go to https://emea.flow.microsoft.com/manage/flows/import.
 3. Upload and import the AutomaticOutofOffice.zip file. [Extra help for importing Power Automate projects](/../../../GeneralFiles/blob/main/CreateConnectionsInImport.md).
 4. Open the Power Automate flow and change the calendar id to the desired calendar (needs to be done in 1 location).
