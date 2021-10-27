@@ -31,7 +31,7 @@ The flow checks your agenda by default 5 min ahead if there is an Outlook event 
 ## Setup
 1. Please download the desired flow. [Out of Office by Category](/../../#out-of-office-by-category) or [Out of Office by Show As](/../../#out-of-office-by-show-as).
 2. Go to https://emea.flow.microsoft.com/manage/flows/import.
-3. Upload and import the AutomaticOutofOffice.zip file. [Extra help for importing Power Automate projects](/../../../GeneralFiles/blob/main/CreateConnectionsInImport.md).
+3. Upload and import the AutomaticOutofOffice.zip file. [Extra help for importing Power Automate projects](/../../../MrAutomate33/blob/main/files/CreateConnectionsInImport.md).
 4. Open the Power Automate flow and change the calendar id to the desired calendar (needs to be done in 1 location).
 5. Set the your desired date/time formatting and timezone in the action 'Convert time zone - Set date and time format'. By default the formatting is: dd-MM-yyyy HH:mm.
 6. Set your internal and external out of office messages in the action 'Set up automatic replies (V2)'.
