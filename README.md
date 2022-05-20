@@ -36,5 +36,5 @@ The flow checks your agenda by default 5 min ahead if there is an Outlook event 
 5. Set the your desired date/time formatting and timezone in the action 'Convert time zone - Set date and time format'. By default the formatting is: dd-MM-yyyy HH:mm.
 6. Set your internal and external out of office messages in the action 'Set up automatic replies (V2)'.
 7. Save.
-8. Don't forget to turn on the Power automate flow.
+8. Don't forget to turn on the Power Automate flow.
 9. Label your Outlook events correctly with the Show As status or category.
