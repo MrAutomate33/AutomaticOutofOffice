@@ -38,3 +38,6 @@ The flow checks your agenda by default 5 min ahead if there is an Outlook event 
 7. Save.
 8. Don't forget to turn on the Power Automate flow.
 9. Label your Outlook events correctly with the Show As status or category.
+
+## Disclaimer
+*This code is provided as is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.*
